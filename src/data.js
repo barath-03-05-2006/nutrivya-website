@@ -6,8 +6,8 @@ export const contact = {
   email: "nutrivyadivya@gmail.com",
   whatsapp: "917305561165", // country code + number, digits only (no + or spaces)
   whatsappLabel: "+91 73055 61165",
-  website: "https://nutrivya.co.in",
-  websiteLabel: "nutrivya.co.in",
+  website: "https://nutrivya-frontend.vercel.app/login",
+  websiteLabel: "nutrivya login webiste",
   instagram: "https://www.instagram.com/dietitian_divya_?stkn=MW0zNnNhZjB5dTF5ag==",
   instagramLabel: "@dietitian_divya_",
 };
